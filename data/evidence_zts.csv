@@ -1,0 +1,4 @@
+candidate_id,claim,source,zts,explanation
+1,"7 years of experience with AWS and Kubernetes",LinkedIn,85,"Claim is consistent with employment history and skills listed on LinkedIn profile."
+1,"Certified Kubernetes Administrator (CKA)",Credly,95,"Certification verified through Credly API."
+

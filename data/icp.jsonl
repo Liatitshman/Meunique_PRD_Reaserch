@@ -1,0 +1,3 @@
+{"role_group": "Backend & DevOps", "market": "US", "must_haves": ["AWS", "Kubernetes", "CI/CD"], "nice_to_haves": ["Terraform", "Python"], "red_flags": ["No cloud experience"], "cultural_dna": ["Direct communication", "High autonomy"]}
+{"role_group": "Backend & DevOps", "market": "IL", "must_haves": ["Go", "Microservices", "High traffic systems"], "nice_to_haves": ["gRPC", "Prometheus"], "red_flags": ["Only worked on monoliths"], "cultural_dna": ["Thrives in chaos", "Pragmatic"]}
+

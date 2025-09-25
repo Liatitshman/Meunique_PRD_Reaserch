@@ -1,0 +1,4 @@
+role_group,market,platform,query
+"Backend & DevOps",US,LinkedIn,"(DevOps OR SRE) AND (AWS OR Azure OR GCP) AND (Kubernetes OR Docker) AND (USA OR \"United States\")"
+"Backend & DevOps",IL,LinkedIn,"(DevOps OR SRE) AND (AWS OR Azure OR GCP) AND (Kubernetes OR Docker) AND (Israel OR \"תל אביב\")"
+
